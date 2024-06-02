@@ -7,6 +7,7 @@
 **B.S., Physics** - Michigan State University (May 2019) 
 
 ### Projects
+- THz STM Sim [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
 
 ### Work Experience
 **Research Optical Engineer** (January 2024-Present)								           
