@@ -23,15 +23,19 @@ Redwire Space Components, Marlborough, MA
 - Reproduced simulations in the physical system which reduced internal error of star trackers that resulted in 2x effectiveness. 
 
 **Student Researcher** (May 2018-August 2019)   
-Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker      
+Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker   
+
 [Publication](https://link.aps.org/accepted/10.1103/PhysRevB.105.115427)
+
 - Designed an algorithm for data extraction and processing of laboratory data.
 - Created a mathematical model of energy states in semiconductors for measurement prediction and analysis.
 - Used machine lean
 
 **Student Researcher** (May 2017-May 2018)      
-National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono        
-[Publication](https://par.nsf.gov/servlets/purl/10257011)    
+National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono 
+
+[Publication](https://par.nsf.gov/servlets/purl/10257011)   
+
 - Designed a data acquisition system for an optical calibration device.
 - Operated data acquisition systems for optical measurements.
 
