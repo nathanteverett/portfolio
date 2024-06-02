@@ -23,6 +23,8 @@ Redwire Space Components, Marlborough, MA
 - Created four calibration systems in one year that reduced testing lead times of products by 4x.
 - Reproduced simulations in the physical system which reduced internal error of star trackers that resulted in 2x effectiveness. 
 
+### Research Experience
+
 **Student Researcher** (May 2018-August 2019)   
 Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker   
 
