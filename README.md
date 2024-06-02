@@ -1,10 +1,10 @@
 # Research Scientist and Engineer
 
 ### Education
-**M.S., Physics**   University of California, Irvine (June 2021)<br>
+**M.S., Physics** - University of California, Irvine (June 2021)<br>
 -Focus in Condensed Matter Physics
 
-**B.S., Physics**   Michigan State University (May 2019) 
+**B.S., Physics** - Michigan State University (May 2019) 
 
 ### Projects
 
