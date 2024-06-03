@@ -9,6 +9,15 @@
 ### Projects
 - THz STM Simulation - [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
 
+### Skills
+- Excellent with Python computing language for modeling physical systems, data analysis, and statistical analysis.
+  - Pandas, NumPy, scikitlearn, seaborn, scipy, matplotlib, etc.
+- Proficient with advanced mathematics and statistics and its applications in modeling and physical systems.
+- Well-versed in differential equations, linear algebra, probability and statistics. 
+- Excellent at training individuals and groups to perform tasks using advanced equipment. 
+- Exemplary interpersonal and teamwork skills.
+- Highly self-disciplined and detail oriented.
+
 ### Work Experience
 **Research Optical Engineer** (January 2024-Present)								           
 Institute of Shock Physics, Washington State University, Pullman, WA 
@@ -54,3 +63,9 @@ Barty Group Optics Lab, UCI, Christopher Barty
 - Designed optics systems for laser pulse dispersion correction systems.
 
 
+### Publications
+-Everett, N. T., (2024) High Dynamic Range Stray Light Test Facility, AAS GNC Conference Proceedings.
+-Ammerman, S. E., [et al, including Everett, N.] (2022) Algorithm for Subcycle Terahertz Scanning Tunneling Spectroscopy, Physical Review B.
+-Sommer, F., [et al, including Everett, N.] (2022). Charge Radii of Ni55,56 Reveal a Surprisingly Similar Behavior at N=28, Physical Review Letters.
+-Powel, Robert, [et al, including Everett, N.] (2021) Improved Wavelength Meter Calibration in near-Infrared Region via Doppler-Free Spectroscopy of Molecular Iodine,  Applied Physics B.
+-Ammerman, S. E., [et al, including Everett, N.] (2021) Lightwave-driven scanning tunneling spectroscopy of atomically precise graphene nanoribbons, Nature Communications.
