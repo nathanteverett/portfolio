@@ -65,7 +65,11 @@ Barty Group Optics Lab, UCI, Christopher Barty
 
 ### Publications
 -Everett, N. T., (2024) High Dynamic Range Stray Light Test Facility, AAS GNC Conference Proceedings.
+
 -Ammerman, S. E., [et al, including Everett, N.] (2022) Algorithm for Subcycle Terahertz Scanning Tunneling Spectroscopy, Physical Review B.
+
 -Sommer, F., [et al, including Everett, N.] (2022). Charge Radii of Ni55,56 Reveal a Surprisingly Similar Behavior at N=28, Physical Review Letters.
+
 -Powel, Robert, [et al, including Everett, N.] (2021) Improved Wavelength Meter Calibration in near-Infrared Region via Doppler-Free Spectroscopy of Molecular Iodine,  Applied Physics B.
+
 -Ammerman, S. E., [et al, including Everett, N.] (2021) Lightwave-driven scanning tunneling spectroscopy of atomically precise graphene nanoribbons, Nature Communications.
