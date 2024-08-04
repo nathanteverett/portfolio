@@ -8,12 +8,16 @@
 
 ### Projects
 - THz STM Simulation - [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
+  - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
+- Nutrition Explorer - [Project](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
+  - Methods: Data cleaning, Pandas, Regex, Matplotlib and Seaborn, iterative data imputation, data standardization, principle component analysis, K-means clustering.  
 
 ### Skills
 - Excellent with Python computing language for modeling physical systems, data analysis, and statistical analysis.
   - Pandas, NumPy, scikitlearn, seaborn, scipy, matplotlib, etc.
 - Proficient with advanced mathematics and statistics and its applications in modeling and physical systems.
-- Well-versed in differential equations, linear algebra, probability and statistics. 
+- Well-versed in differential equations, linear algebra, probability and statistics.
+- Proficient in Structured Query Language (SQL).
 - Excellent at training individuals and groups to perform tasks using advanced equipment. 
 - Exemplary interpersonal and teamwork skills.
 - Highly self-disciplined and detail oriented.
