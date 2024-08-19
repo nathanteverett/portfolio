@@ -7,4 +7,4 @@ Each section in the main simulation is explored in more detail in their correspo
 
 In practice, the program can be applied to real data using THz_Sim.py.
 
-This project was made for 
+This project was made for the Cocker Group at Michigan State University.
