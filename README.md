@@ -45,7 +45,7 @@ Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker
 
 - Designed an algorithm for data extraction and processing of laboratory data.
 - Created a mathematical model of energy states in semiconductors for measurement prediction and analysis.
-- Used machine lean
+- Used machine learning to predict physical quantities guided by an underlying mathematical structure.
 
 **Student Researcher** (May 2017-May 2018)      
 National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono 
@@ -59,7 +59,7 @@ National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono
 Krivorotov Group Spintronics and Nanomagnetism Lab, UCI, Ilya Krivorotov
 - Performed micromagnetic simulations on nanowire systems for probing real world systems.
 - Assisted in experimental design of micromagnetic resonance systems.
-- Trained individuals on advanced coding techniques for simulating theoretical systems.
+- Trained individuals on coding techniques for simulating theoretical systems.
   
 **Graduate Student Researcher** (June 2020-September 2020)    
 Barty Group Optics Lab, UCI, Christopher Barty 
