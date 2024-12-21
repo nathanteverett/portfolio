@@ -1,4 +1,4 @@
-# Research Scientist and Engineer
+# Quantitative Researcher
 
 ### Education
 **M.S., Physics** - University of California, Irvine (June 2021)<br>
