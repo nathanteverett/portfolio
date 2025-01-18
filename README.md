@@ -1,4 +1,4 @@
-# Research Scientist and Engineer
+# Quantitative Researcher
 
 ### Education
 **M.S., Physics** - University of California, Irvine (June 2021)<br>
@@ -8,12 +8,16 @@
 
 ### Projects
 - THz STM Simulation - [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
+  - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
+- Nutrition Explorer - [Project](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
+  - Methods: Data cleaning, Pandas, Regex, Matplotlib and Seaborn, iterative data imputation, data standardization, principle component analysis, K-means clustering.  
 
 ### Skills
 - Excellent with Python computing language for modeling physical systems, data analysis, and statistical analysis.
   - Pandas, NumPy, scikitlearn, seaborn, scipy, matplotlib, etc.
 - Proficient with advanced mathematics and statistics and its applications in modeling and physical systems.
-- Well-versed in differential equations, linear algebra, probability and statistics. 
+- Well-versed in differential equations, linear algebra, probability and statistics.
+- Proficient in Structured Query Language (SQL).
 - Excellent at training individuals and groups to perform tasks using advanced equipment. 
 - Exemplary interpersonal and teamwork skills.
 - Highly self-disciplined and detail oriented.
@@ -41,7 +45,7 @@ Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker
 
 - Designed an algorithm for data extraction and processing of laboratory data.
 - Created a mathematical model of energy states in semiconductors for measurement prediction and analysis.
-- Used machine lean
+- Used machine learning to predict physical quantities guided by an underlying mathematical structure.
 
 **Student Researcher** (May 2017-May 2018)      
 National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono 
@@ -55,7 +59,7 @@ National Superconducting Cyclotron Laboratory, MSU, Kei Minamisono
 Krivorotov Group Spintronics and Nanomagnetism Lab, UCI, Ilya Krivorotov
 - Performed micromagnetic simulations on nanowire systems for probing real world systems.
 - Assisted in experimental design of micromagnetic resonance systems.
-- Trained individuals on advanced coding techniques for simulating theoretical systems.
+- Trained individuals on coding techniques for simulating theoretical systems.
   
 **Graduate Student Researcher** (June 2020-September 2020)    
 Barty Group Optics Lab, UCI, Christopher Barty 
