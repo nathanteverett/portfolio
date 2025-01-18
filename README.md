@@ -7,6 +7,8 @@
 **B.S., Physics** - Michigan State University (May 2019) 
 
 ### Projects
+- Backtesting Long-Term Mean-Reversion Investment Strategy - [Project](https://github.com/nathanteverett/portfolio/tree/main/backtesting)
+  - Methods: Backtesting, mean-reversion, market analysis, equities, data analysis, 
 - THz STM Simulation - [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
   - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
 - Nutrition Explorer - [Project](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
