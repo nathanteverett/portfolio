@@ -1,5 +1,5 @@
 # Quantitative Researcher
-[Profile Pic] (/img/headshot_01-25)
+![Profile Pic] (/img/headshot_01-25.jpeg)
 ### Education
 **M.S., Physics** - University of California, Irvine (June 2021)<br>
 -Focus in Condensed Matter Physics
