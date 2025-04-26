@@ -10,8 +10,8 @@ Key:
 This project showcases two statistical arbitrage strategies and their combination into a single portfolio. These strategies use historical daily price data from Binance, using Binance python API. These dynamic signals aim to outperform passive buy-and-hold strategies. Both strategies utilize a trend indicator called "Average Directional Index." This trend tends to predict when prices are showing momentum or reversal.
 
 ## Data Processing and Training Data
-This portfolio uses historical daily high, low, and close price data from Binance, using Binance python API. The training data is split into a cross-sectional dataset utilizing randomly sampled high-market cap coins. A cross-sectional analysis is key to this strategy as different environments tend to show momentum and reversal at opposing times.
+This portfolio uses historical daily high, low, and close price data from Binance, using Binance python API. The training data is split into a cross-sectional dataset utilizing randomly sampled high-market cap coins. A cross-sectional analysis is key to this strategy as different environments tend to show momentum and reversal at opposing times. Both data sets span January 2019 - April 2025. 
 
 ## Correlated Basket Pair Reversal
-This strategy utilizes the idea that there is a general beta that drives crypto prices. When coins have a high correlation to one-another, they tend to show rever
+This strategy utilizes the idea that there is a general beta that drives crypto prices. When coins have a high correlation to one-another, they tend to be affected by the same beta strongly. When coins diverge from one another, then there is an arbitrage opportunity. Using a basket of coins, then we can make great stride
 
