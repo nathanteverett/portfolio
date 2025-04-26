@@ -1,11 +1,16 @@
 # 10-Year Mean-Reversion Investment Strategy Backtest
 By Nathan T. Everett
 
+## Note to Reader: 
+
+This strategy was explored at the beginning of my quant journey. As is such, it is fraught with mistakes and inaccuracies. However, it is an important step in my development and it showcases my ability to learn.
+
 ## Introduction
 
 This program is the implementation of a mean-reversion trading strategy based on the simple moving average (SMA) of top performing stocks. The data comes from yfinance, a python package that utilizes Yahoo's API on historical market data. The data set provides daily stock prices. Therefore, all of the prices are evaluated daily on market close.
 
 The goal of this strategy is to get more exposure to the top companies of the S&P 500 than the index or its ETFs alone. Of course being so closely related to the S&P will mean that it will be strongly correlated. However, the goal of this strategy is to investigate if exposure to the top 10 companies alone will be significant enough to outperform the index as a whole. 
+
 ## Methods
 
 In the following backtest, five 10-year periods were selected: 2015-2025, 2011-2021, 2005-2015, 2000-2010, 1995-2005. These periods were chosen to investigate the effect in bull markets like 2011-2021 and 2015-2025, and bear markets where a bubble popped in the middle and end of these periods, like 1995-2005 and 2000-2010, respectively. 
