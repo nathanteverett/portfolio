@@ -22,6 +22,7 @@ Finally, we use a trend indicator to determine whether or not we are in a revers
 The dollar-neutral nature of this strategy made it's alpha very robust. It has a net sharpe of 2.22 and an information ratio of 2.18 when BTCUSDT is used as the master coin. A complete summary of performance can be found in table 1 below. The alpha displayed was purified using a beta of buy-and-hold strategy of the coins in the trading universe. Similar results are seen when the beta is assumed to be a single coin, like the master coin.
 
 ![Reversal strat results](Reversal_strat.png)
+
 *Figure 1.* Alpha for a reversal strategy using BTCUSDT as a master coin.
 
 ## Momentum Directional Index Strategy 
@@ -32,6 +33,7 @@ This strategy uses the ADI trend indicator to find momentum environments in cryp
 This strategy benefits from a strong bull or bear market. In 2020-2022 there was a strong bull rush in the new(ish) crypto market. This strategy seems to capture this well. It has a net sharp of 1.59 and an information ratio of 1.46. A complete summary of performance can be found in table 1 below. The alpha displayed was purified using a beta of buy-and-hold strategy of the coins in the trading universe.
 
 ![Momentum strat results](Momentum_strat.png)
+
 *Figure 2.* Alpha for momentum strategy using high market cap coins.
 
 ## Combo Strategy
@@ -42,9 +44,11 @@ The combination of the above strategy was done using equal information ratio wei
 The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
 
 ![Combo strat results](strat_dd_and_dur.png)
+
 *Figure 3.* a. The alpha of the combined momentum and reversal strategies. b. The drawdown profile of the strategy. c. Duration of the drawdowns.
 
 ![Combo strat table](combo_stats.png)
+
 *Table 1.* The results and statistics of all each strategy and the combination strategy.
 
 
