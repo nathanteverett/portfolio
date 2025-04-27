@@ -44,5 +44,6 @@ The combination of the two strategies lead to continual returns. It has an infor
 ![Combo strat table](combo_stats.png)
 
 
+
 ## Conclusion
 The combination of these strategies yields strong returns while remaining market neutral. The combination has a strong alpha with minimal drawdown. One concern with this strategy is the number of free parameters. There are many parameters to choose and if one over-optimizes this is likely to be over-fit. However, the performance from the out-of-sample testing is in strong agreement with the full sample dataset.
