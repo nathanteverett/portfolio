@@ -3,8 +3,11 @@
 
 Key:
 1. Momentum strategy: Crypto Momentum Directional Index Strategy.ipynb
+
 2. Reversal strategy: Correlated Basket Pair Reversal in Crypto.ipynb
+
 3. Combo strategy: Directional Index Reveral and Momentum Strategy.ipynb
+
 
 ## Introduction
 This project showcases two statistical arbitrage strategies and their combination into a single portfolio. These strategies use historical daily price data from Binance, using Binance python API. These dynamic signals aim to outperform passive buy-and-hold strategies. Both strategies utilize a trend indicator called Average Directional Index (ADI). This trend tends to predict when prices are showing momentum or reversal.
