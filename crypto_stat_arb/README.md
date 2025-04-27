@@ -1,5 +1,5 @@
 # Statistical Arbitrage in Crypto: Predicting Momentum and Reversal
-### A quant strategy by Nathan T. Everett
+### A Quant Strategy by Nathan T. Everett
 
 Key:
 1. Momentum strategy: Crypto Momentum Directional Index Strategy.ipynb
