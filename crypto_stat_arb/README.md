@@ -39,7 +39,7 @@ The combination of the above strategy was done using equal information ratio wei
 ### Performance
 The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
 
-![Combo strat results](strat_dd_an_dur.png)
+![Combo strat results](strat_dd_and_dur.png)
 
 ![Combo strat table](combo_stats.png)
 
