@@ -28,7 +28,7 @@ This strategy uses the ADI trend indicator to find momentum environments in cryp
 
 ### Performance
 This strategy benefits from a strong bull or bear market. In 2020-2022 there was a strong bull rush in the new(ish) crypto market. This strategy seems to capture this well. It has a net sharp of 1.59 and an information ratio of 1.46. A complete summary of performance can be found in table 1 below.
-![Momentum strat results]((portfolio/crypto_stat_arb/Momentum strat.png)
+![Momentum strat results](portfolio/crypto_stat_arb/Momentum strat.png)
 
 ## Combo Strategy
 ### Weighting
