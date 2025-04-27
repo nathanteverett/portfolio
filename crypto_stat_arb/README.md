@@ -23,4 +23,21 @@ The dollar-neutral nature of this strategy made it's alpha very robust. It has a
 ![Reversal strat results](reversal strat.png)
 
 ## Momentum Directional Index Strategy 
-This strategy uses the ADI trend indicator to find momentum environments in crypto. It utilizes big market cap coins which are more robust to trend prediction due to their large trading volume.
+### Strategy
+This strategy uses the ADI trend indicator to find momentum environments in crypto. It utilizes big market cap coins which are more robust to trend prediction due to their large trading volume. Two moving averages of the price data with different time horizons are measured against each other. When the two averages cross, then a momentum signal is made. If no signal is detected, the position is kept. However, the signal only changes the position if a trend is also detected with the ADI. Due to the nature of this signal, it is not a dollar-neutral portfolio and it will be net-long or net-short at any given period.
+
+### Performance
+This strategy benefits from a strong bull or bear market. In 2020-2022 there was a strong bull rush in the new(ish) crypto market. This strategy seems to capture this well. It has a net sharp of 1.59 and an information ratio of 1.46. A complete summary of performance can be found in table 1 below.
+![Momentum strat results](Momentum strat.png)
+
+## Combo Strategy
+### Weighting
+The combination of the above strategy was done using equal information ratio weighting. This was chosen to eliminate outliers from when the reversal strategy is "turned off." The weights were calculated taking the variance and the mean from a one-year rolling window. 
+
+### Performance
+The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
+![Combo strat results](Momentum strat.png)
+![Combo strat table](Momentum strat.png)
+
+## Conclusion
+The combination of these strategies yields strong returns while remaining market neutral. The combination has a strong alpha with minimal drawdown. One concern with this strategy is the number of free parameters. There are many parameters to choose and if one over-optimizes this is likely to be over-fit. However, the performance from the out-of-sample testing is in strong agreement with the full sample dataset.
