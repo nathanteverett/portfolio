@@ -20,7 +20,7 @@ Finally, we use a trend indicator to determine whether or not we are in a revers
 
 ### Performance
 The dollar-neutral nature of this strategy made it's alpha very robust. It has a net sharpe of 2.22 and an information ratio of 2.18 when BTCUSDT is used as the master coin. A complete summary of performance can be found in table 1 below.
-![Reversal strat results](portfolio/crypto_stat_arb/Reversal strat.png)
+![Reversal strat results](portfolio/crypto_stat_arb/Reversal_strat.png)
 
 ## Momentum Directional Index Strategy 
 ### Strategy
@@ -28,7 +28,7 @@ This strategy uses the ADI trend indicator to find momentum environments in cryp
 
 ### Performance
 This strategy benefits from a strong bull or bear market. In 2020-2022 there was a strong bull rush in the new(ish) crypto market. This strategy seems to capture this well. It has a net sharp of 1.59 and an information ratio of 1.46. A complete summary of performance can be found in table 1 below.
-![Momentum strat results](portfolio/crypto_stat_arb/Momentum strat.png)
+![Momentum strat results](portfolio/crypto_stat_arb/Momentum_strat.png)
 
 ## Combo Strategy
 ### Weighting
@@ -36,8 +36,8 @@ The combination of the above strategy was done using equal information ratio wei
 
 ### Performance
 The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
-![Combo strat results](strat dd an dur.png)
-![Combo strat table](combo stats.png)
+![Combo strat results](strat_dd_an_dur.png)
+![Combo strat table](combo_stats.png)
 
 ## Conclusion
 The combination of these strategies yields strong returns while remaining market neutral. The combination has a strong alpha with minimal drawdown. One concern with this strategy is the number of free parameters. There are many parameters to choose and if one over-optimizes this is likely to be over-fit. However, the performance from the out-of-sample testing is in strong agreement with the full sample dataset.
