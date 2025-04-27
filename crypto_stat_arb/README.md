@@ -20,7 +20,7 @@ Finally, we use a trend indicator to determine whether or not we are in a revers
 
 ### Performance
 The dollar-neutral nature of this strategy made it's alpha very robust. It has a net sharpe of 2.22 and an information ratio of 2.18 when BTCUSDT is used as the master coin. A complete summary of performance can be found in table 1 below.
-![Reversal strat results](reversal strat.png)
+![Reversal strat results](Reversal strat.png)
 
 ## Momentum Directional Index Strategy 
 ### Strategy
@@ -36,8 +36,8 @@ The combination of the above strategy was done using equal information ratio wei
 
 ### Performance
 The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
-![Combo strat results](Momentum strat.png)
-![Combo strat table](Momentum strat.png)
+![Combo strat results](strat dd an dur.png)
+![Combo strat table](combo stats.png)
 
 ## Conclusion
 The combination of these strategies yields strong returns while remaining market neutral. The combination has a strong alpha with minimal drawdown. One concern with this strategy is the number of free parameters. There are many parameters to choose and if one over-optimizes this is likely to be over-fit. However, the performance from the out-of-sample testing is in strong agreement with the full sample dataset.
