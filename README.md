@@ -7,13 +7,13 @@
 **B.S., Physics** - Michigan State University (May 2019) 
 
 ### Projects
-- Statistical Arbitrage: Reversal and Momentum Strategies in Crypto - [Project](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
+- [Statistical Arbitrage: Reversal and Momentum Strategies in Crypto](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
   - Methods: Python (Pandas/NumPy), econometrics, regression analysis, quantitative trading, crypto, purificaiton, alpha generation. 
-- Backtesting Long-Only Mean-Reversion Investment Strategy - [Project](https://github.com/nathanteverett/portfolio/tree/main/backtesting)
+- [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting)
   - Methods: Backtesting, mean-reversion, market analysis, equities, data analysis
-- THz STM Simulation - [Project](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
+- [THz STM Simulation](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
   - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
-- Nutrition Explorer - [Project](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
+- [Nutrition Explorer](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
   - Methods: Data cleaning, Pandas, Regex, Matplotlib and Seaborn, iterative data imputation, data standardization, principle component analysis, K-means clustering.  
 
 ### Skills
