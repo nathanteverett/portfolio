@@ -3,9 +3,7 @@
 
 Key:
 1. Momentum strategy: Crypto Momentum Directional Index Strategy.ipynb
-
 2. Reversal strategy: Correlated Basket Pair Reversal in Crypto.ipynb
-
 3. Combo strategy: Directional Index Reveral and Momentum Strategy.ipynb
 
 
@@ -24,7 +22,7 @@ Finally, we use a trend indicator to determine whether or not we are in a revers
 ### Performance
 The dollar-neutral nature of this strategy made it's alpha very robust. It has a net sharpe of 2.22 and an information ratio of 2.18 when BTCUSDT is used as the master coin. A complete summary of performance can be found in table 1 below. The alpha displayed was purified using a beta of buy-and-hold strategy of the coins in the trading universe. Similar results are seen when the beta is assumed to be a single coin, like the master coin.
 
-![Alpha for a reversal strategy using BTCUSDT as a master coin.](Reversal_strat.png)
+![Alpha for a reversal strategy using BTCUSDT as a master coin.](mom_and_rev_strats/Reversal_strat.png)
 
 ## Momentum Directional Index Strategy 
 ### Strategy
@@ -33,7 +31,7 @@ This strategy uses the ADI trend indicator to find momentum environments in cryp
 ### Performance
 This strategy benefits from a strong bull or bear market. In 2020-2022 there was a strong bull rush in the new(ish) crypto market. This strategy seems to capture this well. It has a net sharp of 1.59 and an information ratio of 1.46. A complete summary of performance can be found in table 1 below. The alpha displayed was purified using a beta of buy-and-hold strategy of the coins in the trading universe.
 
-![Alpha for momentum strategy using high market cap coins.](Momentum_strat.png)
+![Alpha for momentum strategy using high market cap coins.](mom_and_rev_strats/Momentum_strat.png)
 
 ## Combo Strategy
 ### Weighting
@@ -42,10 +40,10 @@ The combination of the above strategy was done using equal information ratio wei
 ### Performance
 The combination of the two strategies lead to continual returns. It has an information ratio of 2.34 and benefits from a lower drawdown and lower drawdown duration than either of the other two strategies. The turnover of all strategies are fairly modest, leading to solid net returns.
 
-![a. The alpha of the combined momentum and reversal strategies. b. The drawdown profile of the strategy. c. Duration of the drawdowns.](strat_dd_and_dur.png)
-
-![The results and statistics of all each strategy and the combination strategy.](combo_stats.png)
-
+![a. The alpha of the combined momentum and reversal strategies. b. The drawdown profile of the strategy. c. Duration of the drawdowns.](combo_portfolio/strat_dd_and_dur.png)
 
 ## Conclusion
 The combination of these strategies yields strong returns while remaining market neutral. The combination has a strong alpha with minimal drawdown. One concern with this strategy is the number of free parameters. There are many parameters to choose and if one over-optimizes this is likely to be over-fit. However, the performance from the out-of-sample testing is in strong agreement with the full sample dataset.
+
+
+![The results and statistics of all each strategy and the combination strategy.](combo_portfolio/combo_stats.png)
