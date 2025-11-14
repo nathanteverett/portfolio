@@ -9,7 +9,7 @@
 ### Projects
 - [Statistical Arbitrage: Reversal and Momentum Strategies in Crypto](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
   - Methods: Python (Pandas/NumPy), econometrics, regression analysis, quantitative trading, crypto, purificaiton, alpha generation. 
-- [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting)
+- [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting_long-only_strategy)
   - Methods: Backtesting, mean-reversion, market analysis, equities, data analysis
 - [THz STM Simulation](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
   - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
