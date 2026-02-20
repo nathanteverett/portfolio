@@ -8,15 +8,17 @@
 
 ### Projects
 - [Statistical Arbitrage: Reversal and Momentum Strategies in Crypto](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
-  - Methods: Python (Pandas/NumPy), econometrics, regression analysis, quantitative trading, crypto, purificaiton, alpha generation. 
+  - Methods: Python (Pandas/NumPy), econometrics, linear regression analysis, quantitative trading, crypto, purificaiton, alpha generation. 
 - [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting_long-only_strategy)
   - Methods: Backtesting, mean-reversion, market analysis, equities, data analysis
-- [THz STM Simulation](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
+- [THz STM Simulation and Experimental Integration](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
   - Methods: FFT, polynomial fit, machine learning, object-oriented programming, predictive modeling, data processing.   
 - [Nutrition Explorer](https://github.com/nathanteverett/portfolio/tree/main/nutrition_explorer)
   - Methods: Data cleaning, Pandas, Regex, Matplotlib and Seaborn, iterative data imputation, data standardization, principle component analysis, K-means clustering.  
 
 ### Skills
+- Machine Learning algorithm development in computer vision applications.
+- Signal processing of optics and sensor data.
 - Excellent with Python computing language for modeling physical systems, data analysis, and statistical analysis.
   - Pandas, NumPy, scikitlearn, seaborn, scipy, matplotlib, etc.
 - Proficient with advanced mathematics and statistics and its applications in modeling and physical systems.
@@ -32,17 +34,21 @@ Institute of Shock Physics, Washington State University, Pullman, WA
 - Performed data analysis on electrical and optical signals from shock wave experiments.
 - Developed new experimental optical systems for shock wave measurements.
 - Conducted high-energy impact experiments for measuring high-pressure phenomenon in solids.
+- Conducted troubleshooting of system-level failures of precision optical systems.
+
 
 **Research Scientist** (May 2022-April 2024)                                          				    		             
 Redwire Space Components, Marlborough, MA
+- Developed a computer vision algorithm, improving signal detection by more than 10x.
 - Created mathematical models to analyze product capability to meet contract specifications.
-- Collaborated with a team of engineers to model improvements to the star tracker algorithm. 
-- Created four calibration systems in one year that reduced testing lead times of products by 4x.
-- Reproduced simulations in the physical system which reduced internal error of star trackers that resulted in 2x effectiveness. 
+- Reproduced simulations in the physical system which reduced internal error of star trackers that resulted in 2x effectiveness.
+- Created four optical calibration systems in one year that reduced testing lead times of products by 4x.
+- Presented a talk at the AAS GNC conference, highlighting product capabilities and applications.
+
 
 ### Research Experience
 
-**Student Researcher** (May 2018-August 2019)   
+**Post Bac Researcher** (May 2018-August 2019)   
 Ultrafast Terahertz Scanning Tunneling Microscopy Lab, MSU, Tyler Cocker   
 
 [Publication](https://link.aps.org/accepted/10.1103/PhysRevB.105.115427)
