@@ -1,4 +1,8 @@
-# Physical AI Engineer
+# Nathan T. Everett
+
+**AI Systems · Machine Learning · Data Analytics**
+
+*Building AI products, analytical models, and decision-ready insights from complex scientific and business data.*
 
 ### Education
 **M.S., Physics** - University of California, Irvine (June 2021)<br>
@@ -6,9 +10,22 @@
 
 **B.S., Physics** - Michigan State University (May 2019) 
 
-### Projects
+### Featured Projects
+
+- **[LabDAWg — AI-Native Digital Audio Workstation](https://www.labdawg.com/)**
+  - Desktop DAW that combines native recording, editing, mixing, MIDI, and plugin workflows with natural-language agentic control.
+  - Methods: C++, Rust/Tauri, React/TypeScript, real-time audio, DSP, contract-driven APIs, AI tool integration, cross-platform desktop engineering, harness engineering.
+- **[Free Chess Training](https://github.com/nathanteverett/free-chess-training)** · [Live app](https://nathanteverett.github.io/free-chess-training/)
+  - Built an open-source, no-account chess learning app with 181 focused lessons, progressive-hint puzzles, an in-browser Stockfish analysis board, local progress tracking, and real-time games backed by Cloudflare Durable Objects.
+  - Methods: React, TypeScript, Vite, MDX, Stockfish/WASM, WebSockets, Cloudflare Workers and Durable Objects.
+- **[ML Engineer Study Guide and Agentic Job Search](https://github.com/nathanteverett/learning-machine-learning)**
+  - Built a study platform with a curriculum dependency graph, confidence-calibrated quizzes, spaced review, coding exercises, a progress-aware AI study buddy, job-specific interview preparation, and job search agent.
+  - Methods: Next.js, React, TypeScript, SQLite, Python, LLM provider abstraction, structured outputs, MCP, harness engineering.
+
+### Additional Projects
+
 - [Statistical Arbitrage: Reversal and Momentum Strategies in Crypto](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
-  - Methods: Python (Pandas/NumPy), econometrics, linear regression analysis, quantitative trading, crypto, purificaiton, alpha generation. 
+  - Methods: Python (Pandas/NumPy), econometrics, linear regression analysis, quantitative trading, crypto, purification, alpha generation.
 - [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting_long-only_strategy)
   - Methods: Backtesting, mean-reversion, market analysis, equities, data analysis
 - [THz STM Simulation and Experimental Integration](https://github.com/nathanteverett/portfolio/tree/main/THz_sim)
@@ -17,19 +34,20 @@
   - Methods: Data cleaning, Pandas, Regex, Matplotlib and Seaborn, iterative data imputation, data standardization, principle component analysis, K-means clustering.  
 
 ### Skills
-- Machine Learning algorithm development in computer vision applications.
-- Signal processing of optics and sensor data.
-- Excellent with Python computing language for modeling physical systems, data analysis, and statistical analysis.
-  - Pandas, NumPy, scikitlearn, seaborn, scipy, matplotlib, etc.
-- Proficient with advanced mathematics and statistics and its applications in modeling and physical systems.
-- Well-versed in differential equations, linear algebra, probability and statistics.
-- Proficient in Structured Query Language (SQL).
-- Excellent at training individuals and groups to perform tasks using advanced equipment. 
-- Exemplary interpersonal and teamwork skills.
-- Highly self-disciplined and detail oriented.
+- **AI systems:** LLM orchestration and model routing, tool and function calling, schema-typed structured outputs, evaluation harness design, RAG, prompt optimization, and inference cost and latency optimization.
+- **Machine learning:** Computer vision, physics-informed and predictive modeling, regression, classification, PCA, clustering, feature engineering, model evaluation, deep learning, and time-series analysis.
+- **Signal and sensor processing:** Real-time DSP, FFT and spectral analysis, nonlinear curve fitting, noise characterization, calibration, radiometry, measurement uncertainty, and error analysis.
+- **Backend and product infrastructure:** Serverless edge services, managed databases, authentication, subscription billing, API design, telemetry pipelines, and cross-platform desktop packaging and distribution.
+- **Optical design and experimental systems:** Zemax OpticStudio, ray tracing, stray light analysis, tolerancing, optomechanical design, calibration systems, data acquisition, ultrafast lasers, and high-energy impact experiments.
 
 ### Work Experience
-**Research Optical Engineer** (January 2024-Present)								           
+**Co-Founder** (November 2025-Present)
+LabDAWg, San Francisco, CA
+- Designed and built the complete technical stack for an AI-native desktop audio editor, spanning LLM orchestration, a real-time DSP engine, serverless infrastructure, authentication, payments, and distribution.
+- Built a natural-language control layer mapping user intent onto 200+ audio-production functions through strictly typed tool schemas, making model output deterministic and safe to execute against a live audio session.
+- Took the company from concept to open beta, launched signed Windows and macOS applications, and acquired an initial base of paying subscribers.
+
+**Research Optical Engineer** (January 2024-September 2025)
 Institute of Shock Physics, Washington State University, Pullman, WA 
 - Performed data analysis on electrical and optical signals from shock wave experiments.
 - Developed new experimental optical systems for shock wave measurements.
