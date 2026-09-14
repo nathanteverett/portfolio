@@ -15,6 +15,10 @@
 - **[LabDAWg — AI-Native Digital Audio Workstation](https://www.labdawg.com/)**
   - Desktop DAW that combines native recording, editing, mixing, MIDI, and plugin workflows with natural-language agentic control.
   - Methods: C++, Rust/Tauri, React/TypeScript, real-time audio, DSP, contract-driven APIs, AI tool integration, cross-platform desktop engineering, harness engineering.
+- **[Video Overlay Detector](./video-overlay-detector/)** · [Code](https://github.com/nathanteverett/video-overlay-detector)
+  - Built a training, inference, and evaluation pipeline for detecting digital overlays across seven categories. Fine-tuned YOLO11s on 19,646 frames and achieved 92.0% frame-level F1 on 5,000 local test frames, with videos separated across train, validation, and test.
+  - Improved validation detection mAP (IoU 0.50–0.95) from 23.25% to 25.23% through source-balanced sampling at the same frame budget; investigated annotation quality, class confusion, and small-object failures.
+  - Methods: Python, PyTorch, YOLO11s, transfer learning, dataset auditing, source-separated evaluation, COCO metrics, GPU training.
 - **[Free Chess Training](https://github.com/nathanteverett/free-chess-training)** · [Live app](https://nathanteverett.github.io/free-chess-training/)
   - Built an open-source, no-account chess learning app with 181 focused lessons, progressive-hint puzzles, an in-browser Stockfish analysis board, local progress tracking, and real-time games backed by Cloudflare Durable Objects.
   - Methods: React, TypeScript, Vite, MDX, Stockfish/WASM, WebSockets, Cloudflare Workers and Durable Objects.
@@ -35,7 +39,7 @@
 
 ### Skills
 - **AI systems:** LLM orchestration and model routing, tool and function calling, schema-typed structured outputs, evaluation harness design, RAG, prompt optimization, and inference cost and latency optimization.
-- **Machine learning:** Computer vision, physics-informed and predictive modeling, regression, classification, PCA, clustering, feature engineering, model evaluation, deep learning, and time-series analysis.
+- **Machine learning:** Computer vision, object detection, PyTorch, pretrained model fine-tuning, dataset auditing, source-separated evaluation, physics-informed and predictive modeling, regression, classification, PCA, clustering, feature engineering, deep learning, and time-series analysis.
 - **Signal and sensor processing:** Real-time DSP, FFT and spectral analysis, nonlinear curve fitting, noise characterization, calibration, radiometry, measurement uncertainty, and error analysis.
 - **Backend and product infrastructure:** Serverless edge services, managed databases, authentication, subscription billing, API design, telemetry pipelines, and cross-platform desktop packaging and distribution.
 - **Optical design and experimental systems:** Zemax OpticStudio, ray tracing, stray light analysis, tolerancing, optomechanical design, calibration systems, data acquisition, ultrafast lasers, and high-energy impact experiments.
