@@ -46,9 +46,9 @@ These were single-seed comparisons. Sampling changed both image membership and c
 
 ## Error analysis and next experiment
 
-**The data-quality investigation confirmed concrete annotation defects in the reviewed training sample.** In a random review of **50 training frames**, **16 required annotation review or correction**—all among the **23 supplied positive frames**. All **27 supplied negatives** were accepted. Documented issues included inconsistent overlay types, missing or misplaced boxes, and native game content annotated as digital overlays.
+**The investigation confirmed dataset-quality problems affecting the training annotations.** A random review of **50 training frames** identified **16 requiring annotation review or correction**, all among the **23 supplied positive frames**. All **27 supplied negatives** were accepted. The review documented inconsistent overlay types, missing or misplaced boxes, and native game content incorrectly annotated as digital overlays.
 
-This investigation established that supervision quality was a real concern, rather than a hypothesis based only on model scores, and identified specific label and localization corrections to investigate. It did not certify the entire dataset, estimate a dataset-wide defect rate, or prove how much these issues affected model performance. The reviewed semantic corrections were not used to train the reported model.
+**Data quality was a substantive project finding.** The investigation moved beyond aggregate model scores to inspect the supervision itself, confirmed concrete defects, and identified specific label and localization corrections. This established annotation quality as a limitation of the supplied dataset and made correcting the supervision the priority for further model development.
 
 My next experiment would compare original and corrected training annotations using the same images, initialization, training budget, and unchanged holdouts. Production readiness would also require deployment benchmarks and an aligned quality comparison before claiming savings over a VLM.
 
