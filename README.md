@@ -17,7 +17,7 @@
   - Methods: C++, Rust/Tauri, React/TypeScript, real-time audio, DSP, contract-driven APIs, AI tool integration, cross-platform desktop engineering, harness engineering.
 - **[Video Overlay Detector](./video-overlay-detector/)** · [Code](https://github.com/nathanteverett/video-overlay-detector)
   - Built a training, inference, and evaluation pipeline for detecting digital overlays across seven categories. Fine-tuned YOLO11s on 19,646 frames and achieved 92.0% frame-level F1 on 5,000 local test frames, with videos separated across train, validation, and test.
-  - Improved validation detection mAP (IoU 0.50–0.95) from 23.25% to 25.23% through source-balanced sampling at the same frame budget; investigated annotation quality, class confusion, and small-object failures.
+  - Classified frames as overlay-present or overlay-free with 91.5% accuracy, 94.2% precision, and 89.9% recall on the local test set, using a decision threshold selected on validation data.
   - Methods: Python, PyTorch, YOLO11s, transfer learning, dataset auditing, source-separated evaluation, COCO metrics, GPU training.
 - **[Free Chess Training](https://github.com/nathanteverett/free-chess-training)** · [Live app](https://nathanteverett.github.io/free-chess-training/)
   - Built an open-source, no-account chess learning app with 181 focused lessons, progressive-hint puzzles, an in-browser Stockfish analysis board, local progress tracking, and real-time games backed by Cloudflare Durable Objects.
