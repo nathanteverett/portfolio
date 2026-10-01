@@ -1,8 +1,8 @@
 # Nathan T. Everett
 
-**AI Systems · Machine Learning · Data Analytics**
+**Machine Learning Engineer · Computer Vision · Agentic Systems**
 
-*Building AI products, analytical models, and decision-ready insights from complex scientific and business data.*
+*I build and evaluate machine learning systems, from computer vision models to AI-powered applications.*
 
 ### Education
 **M.S., Physics** - University of California, Irvine (June 2021)<br>
