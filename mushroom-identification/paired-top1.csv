@@ -1,0 +1,15 @@
+method,comparator,difference_pp,lower_95_pp,upper_95_pp,corrected,introduced
+Field-frequency adjustment,Photos only,1.2161297205035204,0.36270535523789205,2.048218476637508,232,175
+Learned field embeddings,Field-frequency adjustment,-0.10667804565820355,-1.0881160657136761,0.874759974397269,266,271
+"Full weather, photo query",Photos only,-1.600170684873053,-2.624279923191807,-0.6187326648175806,253,328
+"Full weather, photo query",Field-frequency adjustment,-2.8163004053765732,-3.90441647109025,-1.7281843396628975,277,409
+"Full weather, photo query + field metadata","Full weather, photo query",1.0027736291871132,0.2346917004480478,1.7708555579261789,192,145
+"Full weather, photo query + field metadata",Field-frequency adjustment,-1.8135267761894602,-2.773629187113292,-0.874759974397269,215,300
+"Full weather, shared query","Full weather, photo query",1.024109238318754,0.10667804565820355,1.9415404309793045,259,211
+"Rain only, photo query","Constant weather, photo query",0.40537657350117345,-0.4907190100277363,1.3014721570300833,240,221
+"Temperature only, photo query","Constant weather, photo query",-0.6827394922125027,-1.6428419031363346,0.2560273095796885,245,277
+"Full weather, photo query","Constant weather, photo query",-0.4693834008960956,-1.386814593556646,0.4693834008960956,235,257
+"Chronos rain, photo query","Rain only, photo query",0.06400682739492213,-0.9814380200554726,1.0667804565820354,310,307
+"Chronos rain, shared query","Chronos rain, photo query",-0.5973970556859398,-1.4508214209515682,0.2346917004480478,191,219
+"Chronos rain, photo query",Field-frequency adjustment,-1.8775336035843824,-2.9443140601664175,-0.8107531470023469,287,375
+"Chronos rain, photo query + field metadata",Field-frequency adjustment,-0.4693834008960956,-1.4294858118199274,0.4480477917644549,244,266
