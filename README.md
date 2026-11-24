@@ -28,6 +28,8 @@
 
 ### Additional Projects
 
+- [Does recent weather help identify mushrooms from photos?](./mushroom-identification/)
+  - Compared frozen DINOv2 features, field metadata, and 30 days of weather on 4,687 sightings. Habitat, substrate, and month produced the best species identification accuracy (80.71%).
 - [Statistical Arbitrage: Reversal and Momentum Strategies in Crypto](https://github.com/nathanteverett/portfolio/tree/main/crypto_stat_arb)
   - Methods: Python (Pandas/NumPy), econometrics, linear regression analysis, quantitative trading, crypto, purification, alpha generation.
 - [Backtesting Long-Only Mean-Reversion Investment Strategy](https://github.com/nathanteverett/portfolio/tree/main/backtesting_long-only_strategy)
